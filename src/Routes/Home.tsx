@@ -14,7 +14,6 @@ const noPoster = require("../images/noPosterSmall.png");
 const Wrapper = styled.div`
   background: black;
   padding-bottom: 300px;
-
   overflow: hidden;
 `;
 
