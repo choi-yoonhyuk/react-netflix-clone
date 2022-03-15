@@ -5,10 +5,8 @@
  &nbsp
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </p>
-> 실시간 영화 정보를 보여주는 "Netflix Clone" 서비스 입니다.
-> </br>
-
-Movie , TV Show 의 정보와 기존 넷플릭스의 각종 애니메이션 효과를 적용하였습니다.
+- 실시간 영화 정보를 보여주는 "Netflix Clone" 서비스 입니다. </br>
+-Movie , TV Show 의 정보와 기존 넷플릭스의 각종 애니메이션 효과를 적용하였습니다.
 
 ---
 
